@@ -10,7 +10,7 @@ import lombok.Data;
 @Entity
 @Table(name = "tabla_personas")
 public class Persona {
-
+//comentario de verificacion
     @Id
     private long id;
 
